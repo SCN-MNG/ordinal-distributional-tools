@@ -1,0 +1,15 @@
+# RStudio project files and local state
+*.Rproj
+.Rproj.user/
+
+# R session state
+.RData
+.Rhistory
+.Rprofile
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Data
+data/
