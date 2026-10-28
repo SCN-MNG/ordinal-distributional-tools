@@ -13,3 +13,6 @@ Thumbs.db
 
 # Data
 data/
+
+# Renv
+renv/
