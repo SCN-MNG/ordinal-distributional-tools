@@ -1,6 +1,6 @@
 # Distributional Tools for Ordinal Wellbeing Data
 
-This R project is a replication package for Gordon Anderson's working paper. It implements functions to calculate a range of statistics for univariate and multivariate ordinal categorical distributions (e.g. a Cantril Ladder from 1 to 10): 
+This R project is a replication package for Gordon Anderson's working paper (link shall be provided when available). It implements functions to calculate a range of statistics for univariate and multivariate ordinal categorical distributions (e.g. a Cantril Ladder from 1 to 10): 
 - Expected Value of a Higher Outcome (Equally Weighted)
 - Expected Value of a Higher Outcome (Category Weighted)
 - Modal Category
@@ -16,7 +16,7 @@ For precise mathematical definitions of these statistics, please refer to the or
 The project applies these functions to a subset of Gallup World Poll data, examining well-being and perceived income separately as univariate distributions, and then jointly as a multivariate distribution. 
 
 ## Versions
-The most recent version is available at ()
+The most recent version of this code is available at https://github.com/SCN-MNG/ordinal-distributional-tools
 
 ## Data Availability
 
