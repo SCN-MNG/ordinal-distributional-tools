@@ -44,7 +44,7 @@ Contains functions for computing distribution statistics and for computing Gini'
 
 ### `src/main.R`
 
-Applies these functions in `src/math_tools.R` to Gallup World Poll data on well-being and income perception.
+Applies the functions in `src/math_tools.R` to Gallup World Poll data on well-being and income perception.
 
 ## Dependencies
 
